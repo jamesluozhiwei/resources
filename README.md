@@ -1,6 +1,6 @@
 # resources
 资源仓库
-# 导入
+# live2dw的使用 导入
 在页面导入<script src="live2dw/lib/L2Dwidget.min.js"></script>
 # 初始化代码 注意路径别写错了就行
     L2Dwidget.init({
