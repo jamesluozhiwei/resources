@@ -25,3 +25,9 @@
 				},
 				log: !1
 			});
+
+# mybatis逆向工程的使用
+在generatorConfig.xml文件中配置好数据库连接信息以及要生成的数据表和代码存放位置之后
+运行GeneratorSqlMapper.java的主方法
+运行主方法之后刷新src目录即可看到生成的代码了~
+如果再配置个mybatis的嵌套查询，封装一下结果集就更舒服了
